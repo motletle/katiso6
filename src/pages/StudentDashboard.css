@@ -1,0 +1,49 @@
+/* StudentDashboard.css */
+.dashboard-container {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+  }
+  
+  h2 {
+    font-size: 2em;
+    color: #333;
+  }
+  
+  h3 {
+    font-size: 1.5em;
+    color: #444;
+  }
+  
+  .dashboard-section {
+    margin-bottom: 20px;
+  }
+  
+  .dashboard-section ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .dashboard-section li {
+    background-color: #e0f7fa;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 4px;
+  }
+  
+  .dashboard-footer {
+    margin-top: 30px;
+    text-align: center;
+  }
+  
+  .dashboard-footer a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  .dashboard-footer a:hover {
+    text-decoration: underline;
+  }
+  

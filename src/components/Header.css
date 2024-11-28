@@ -1,0 +1,36 @@
+/* Header styles (src/components/Header.css) */
+.header {
+    background-color: #4caf50;
+    color: white;
+    padding: 20px 0;
+  }
+  
+  .header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .header h1 {
+    font-size: 24px;
+  }
+  
+  .header nav ul {
+    display: flex;
+    list-style: none;
+  }
+  
+  .header nav ul li {
+    margin-left: 20px;
+  }
+  
+  .header nav ul li a {
+    color: white;
+    font-size: 18px;
+    text-transform: uppercase;
+  }
+  
+  .header nav ul li a:hover {
+    color: #f4f4f9;
+  }
+  
